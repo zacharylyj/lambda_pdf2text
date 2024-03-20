@@ -36,7 +36,6 @@ Ensure you have Python installed on your local machine.
 Install the required dependencies using pip:
 
 ```
-
 pip install PyPDF2
 ```
 
